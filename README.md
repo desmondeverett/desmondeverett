@@ -9,4 +9,5 @@ I am an IT Support Engineer and Cybersecurity Instructor transitioning into adva
 - **Networking:** Cisco Routing/Switching, VLANs, STP/HSRP, Edge VPNs
 - **Scripting:** Python (OOP, Automation)
 
-📫 **Let's connect:** [Find me on LinkedIn](https://linkedin.com/in/desmondeverett)
+📫 **Let's connect & view my work:** - [Find me on LinkedIn](https://www.linkedin.com/in/desmondeverett/)
+- [📄 Download My Resume](BaseResume2026v1.pdf)
