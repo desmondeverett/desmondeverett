@@ -12,3 +12,4 @@ I am an IT Support Engineer and Cybersecurity Instructor transitioning into adva
 📫 **Let's connect & view my work:** 
 - [Find me on LinkedIn](https://www.linkedin.com/in/desmondeverett/)
 - [Download My Resume](BaseResume2026v1.pdf)
+- [Check out my Microsoft Transcripts](https://learn.microsoft.com/en-us/users/deseverett-0297/transcript)
