@@ -4,7 +4,7 @@ I am an IT Support Engineer and Cybersecurity Instructor transitioning into adva
 
 ### 🛠️ Tech Stack & Certifications
 
-- **Certifications:** CompTIA CySA+, Security+, Network+, A+ | Microsoft AZ-900, AI-900
+- **Certifications:** CompTIA: CySA+, Security+, Network+, A+ | Microsoft AZ-900, AI-900
 - **Infrastructure:** Linux (LAMP, Bash Automation), Windows Server Admin, Microsoft Azure
 - **Networking:** Cisco Routing/Switching, VLANs, STP/HSRP, Edge VPNs
 - **Scripting:** Python (OOP, Automation)
